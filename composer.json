@@ -8,6 +8,6 @@
     "minimum-stability": "dev",
     "support": {
         "issues": "https://www.drupal.org/project/issues/webform_validation_unique",
-        "source": "http://cgit.drupalcode.org/webform_validation_unique",
-    },
+        "source": "http://cgit.drupalcode.org/webform_validation_unique"
+    }
 }
